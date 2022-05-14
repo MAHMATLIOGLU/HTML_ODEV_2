@@ -1,3 +1,3 @@
 # HTML_ODEV_2
 
-https://app.patika.dev/paths
+https://www.patika.dev/tr
